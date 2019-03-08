@@ -1,5 +1,5 @@
 ## SetList
-Set List for the band /dev/null and the kernel panics
+Set List for the band "/dev/null and the kernel panics"
 
 #### Heatwave (Martha and the Vandellas)
 #### Midnight Hour (Wilson Pickett)
