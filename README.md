@@ -1,4 +1,4 @@
-# SetList
+## SetList
 Set List for the band /dev/null and the kernel panics
 
 #### Heatwave (Martha and the Vandellas)
@@ -6,5 +6,5 @@ Set List for the band /dev/null and the kernel panics
 #### Move on Up (Curtis Mayfield)
 
 ---
-# Proposed
+## Proposed
 #### Crosstown Traffic (Jimi Hendrix)
